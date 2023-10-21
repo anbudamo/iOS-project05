@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E48F7360-F39B-46F7-BB5C-75EAB237AE0A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F25F53-BC20-4EAF-A8FE-D1A647076DC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TumblrCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6F25F53-BC20-4EAF-A8FE-D1A647076DC8 - b6bbc1223fb23bd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.TumblrCell.setSelected(_: Swift.Bool, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anbudamodaran/Documents/iOS101-project05/TumblrCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C6F25F53-BC20-4EAF-A8FE-D1A647076DC8 - b6bbc1223fb23bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.TumblrCell.setSelected(_: Swift.Bool, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anbudamodaran/Documents/iOS101-project05/TumblrCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6451907-E790-41A5-9707-88B3194BB486"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TumblrCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
